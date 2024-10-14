@@ -91,4 +91,6 @@ https://ipywidgets.readthedocs.io/en/stable/user_install.html
 * https://github.com/milvus-io/bootcamp/tree/master/bootcamp/RAG/advanced_rag
 * https://zilliz.com/learn/Retrieval-Augmented-Generation 
 * https://zilliz.com/blog/scale-search-with-milvus-handle-massive-datasets-with-ease 
+* https://zilliz.com/learn/generative-ai 
+* https://zilliz.com/learn/what-are-binary-vector-embedding 
 
