@@ -85,3 +85,6 @@ https://zilliz.com/learn/LangChain
 https://ipywidgets.readthedocs.io/en/stable/user_install.html
 
 
+### References
+
+https://medium.com/@zilliz_learn/function-calling-with-ollama-llama-3-2-and-milvus-ac2bc2122538
