@@ -87,4 +87,5 @@ https://ipywidgets.readthedocs.io/en/stable/user_install.html
 
 ### References
 
-https://medium.com/@zilliz_learn/function-calling-with-ollama-llama-3-2-and-milvus-ac2bc2122538
+* https://medium.com/@zilliz_learn/function-calling-with-ollama-llama-3-2-and-milvus-ac2bc2122538
+* https://github.com/milvus-io/bootcamp/tree/master/bootcamp/RAG/advanced_rag
