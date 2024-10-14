@@ -89,3 +89,6 @@ https://ipywidgets.readthedocs.io/en/stable/user_install.html
 
 * https://medium.com/@zilliz_learn/function-calling-with-ollama-llama-3-2-and-milvus-ac2bc2122538
 * https://github.com/milvus-io/bootcamp/tree/master/bootcamp/RAG/advanced_rag
+* https://zilliz.com/learn/Retrieval-Augmented-Generation 
+* https://zilliz.com/blog/scale-search-with-milvus-handle-massive-datasets-with-ease 
+
