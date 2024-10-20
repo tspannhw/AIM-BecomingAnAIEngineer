@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=mLr69dmdYLg
 
 https://www.slideshare.net/slideshow/17-october-2024-nyc-ai-camp-step-by-step-rag-101/272413815
 
-
+https://medium.com/@tspann/step-by-step-rag-101-with-milvus-813477a4e88d
 
 ### Step 1 - Start off local
 
