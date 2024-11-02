@@ -8,6 +8,16 @@ https://www.slideshare.net/slideshow/17-october-2024-nyc-ai-camp-step-by-step-ra
 
 https://medium.com/@tspann/step-by-step-rag-101-with-milvus-813477a4e88d
 
+Getting Started with Data Engineering and AI - Step 1
+https://www.youtube.com/watch?v=RnpaeEUJIGU
+
+Getting Started with Data Engineering and AI - Step 2 - Setting up Libraries
+https://www.youtube.com/watch?v=p0IZLV8OIVs
+
+Getting Started with Data Engineering and AI - Step 3 - CSV and Pandas
+https://www.youtube.com/watch?v=N1QsyJVf8Bo
+
+
 ### Step 1 - Start off local
 
 #### Download Python (or use your local install)
